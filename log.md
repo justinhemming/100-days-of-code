@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 1: January 3rd, 2017
+
+**Today's Progress**: Resumed FreeCodeCamp and continued with javaScript lessons
+
+**Thoughts:** Struggled with converting C to F. Did a google search, found an answer and realised I was looking at it too deeply.
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
