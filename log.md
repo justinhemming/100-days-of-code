@@ -1,12 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3rd, 2017
+### Day 1: January 4th, 2017
 
 **Today's Progress**: Resumed FreeCodeCamp and continued with javaScript lessons
+                      Started working on an Audrey Hepburn tribute page
 
 **Thoughts:** Struggled with converting C to F. Did a google search, found an answer and realised I was looking at it too deeply.
-
-### Day 0: February 30, 2016 (Example 1)
+              First time using Flexbox. Used it for Audrey Hepburn page. Today started work on laying out a 1-3-3 grid for the front page
+              
+**Link to work:** [Audrey Hepburn Tribute Page](http://codepen.io/justinhemming/pen/YNzOPv)
+              
+<!---### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
