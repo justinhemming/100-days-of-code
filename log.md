@@ -2,8 +2,8 @@
 
 ### Day 1: January 4th, 2017
 
-**Today's Progress**: Resumed FreeCodeCamp and continued with javaScript lessons
-                      Started working on an Audrey Hepburn tribute page
+**Today's Progress**: Resumed FreeCodeCamp and continued with javaScript lessons.
+                      Started working on an Audrey Hepburn tribute page.
 
 **Thoughts:** Struggled with converting C to F. Did a google search, found an answer and realised I was looking at it too deeply.
               First time using Flexbox. Used it for Audrey Hepburn page. Today started work on laying out a 1-3-3 grid for the front page
@@ -37,4 +37,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --->
