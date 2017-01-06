@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 6th, 2017
+
+**Today's progress:** More progress on AH tribute page. Managed to get the main photo into a flexbox and fit to the screen.
+
+**Thoughts:** Used forums and figured out why the main photo wasn't moving - a hyphen in the wrong place! I still don't fully understand inheritance and cascading of css styles. For tomorrow - I will start adding and filling out the biography, filmography and quote sections. All on the same page in flexboxes. I like the grey colour scheme alongside the b&w photo. Choose better fonts!
+
+**Link to work:** [AH Tribute page](http://codepen.io/justinhemming/full/xgbrKK/)
+
 ### Day 2:January 5th, 2017
 
 **Today's progress:** Continued working on AH tribute page. Made a navigation bar using flexbox.
 
-**Thoughts:** This is hard! Things keep changing when I add a seemingly unrelated piece of css. Put them in a different order and hey ho it's okay.  Definitely the way to learn - experience problems and overcome them by perseverance. Tutorials are good for basics but don't cover everything. 
+**Thoughts:** This is hard! Things keep changing when I add a seemingly unrelated piece of css. Put them in a different order and hey ho               it's okay.  Definitely the way to learn - experience problems and overcome them by perseverance. Tutorials are good for                 basics but don't cover everything. 
 
 **Link to work:** [AH Tribute page](http://codepen.io/justinhemming/full/xgbrKK/)
 
