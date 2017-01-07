@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+###Day 4: January 7th, 2017###
+
+**Today's progress** AH Tribute page. Started laying out 3x3 grid to contain media elements, biography and filmography
+
+**Thoughts** Still haven't grasped what goes in which CSS style. Do I need to size the actual div, or what is in them, or both?
+
+**Link to work:** [AH Tribute page](http://codepen.io/justinhemming/full/xgbrKK/)
+
 ### Day 3: January 6th, 2017
 
 **Today's progress:** More progress on AH tribute page. Managed to get the main photo into a flexbox and fit to the screen.
